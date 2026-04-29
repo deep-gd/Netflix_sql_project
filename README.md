@@ -272,6 +272,6 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 ### Stay connected
 
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/mahalakshmipathuri)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/mahalakshmipathuri/)
 
 Thank you for your support, and I look forward to connecting with you!
